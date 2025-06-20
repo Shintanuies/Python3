@@ -1,4 +1,4 @@
-# if, elif e else: entendendo o fluxo do interpretador em condicionais
+# Introdução aos blocos de código + if / elif / else (condicionais)
 
 # if / elif      / else
 # se / se-não-se / se-não
